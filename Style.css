@@ -6,13 +6,15 @@
     font-size: large;
 }
 
-
+.nav-name{
+    margin-left: 3%;
+}
 
 body{
     background-color: #E6E6FA
 }
 
-img{
+.main-image{
     width: 93%;
     height: 9%;
     margin-left: 3%;
